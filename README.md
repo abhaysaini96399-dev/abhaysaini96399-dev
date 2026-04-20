@@ -1,6 +1,6 @@
-<div align="center" style="width:100%;">
+<div align="center" style="width:80%;">
 
-<img src="https://drive.google.com/uc?export=view&id=1b7-RAKDv625-TC2bA0dCUlxigdAhI7ZH"
+<img src="https://drive.google.com/uc?export=view&id=1AGQ8wDtNWQPAFw0yWWbHOaO9liOE-5Ls"
 style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" 
 alt="Abhay Saini Banner" />
 
